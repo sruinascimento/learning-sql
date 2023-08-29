@@ -32,7 +32,7 @@ Há três maneiras:
 ```mysql
 -- Comentário de uma linha(mais usual)
 
-#Comentário de uma linha
+# Comentário de uma linha
 
 /*
 Comentário 
